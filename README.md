@@ -10,23 +10,23 @@ El menu principal tiene 7 opciones.
 
 ![image](https://github.com/user-attachments/assets/64d1dc31-fb17-453a-b0e1-99204dc8e8f8)
 
-' *Opcion 1.-* Conversion de monedas. En esta opcion el usuario puede realizar la conversion de dólares [USD] a pesos argentinos [ARS].
+' **Opcion 1:** Conversion de monedas. En esta opcion el usuario puede realizar la conversion de dólares [USD] a pesos argentinos [ARS].
 
-' *Opcion 2.-* Conversion de monedas. En esta opcion el usuario puede realizar la conversion de pesos argentinos [ARS] a dólares [USD].
+' **Opcion 2:** Conversion de monedas. En esta opcion el usuario puede realizar la conversion de pesos argentinos [ARS] a dólares [USD].
 
-' *Opcion 3.-* Conversion de monedas. En esta opcion el usuario puede realizar la conversion de dólares [USD] a reales brasileños [BRL].
+' **Opcion 3:** Conversion de monedas. En esta opcion el usuario puede realizar la conversion de dólares [USD] a reales brasileños [BRL].
 
-' *Opcion 4.-* Conversion de monedas. En esta opcion el usuario puede realizar la conversion de reales brasileños [BRL] a dólares [USD].
+' **Opcion 4:** Conversion de monedas. En esta opcion el usuario puede realizar la conversion de reales brasileños [BRL] a dólares [USD].
 
-' *Opcion 5.-* Conversion de monedas. En esta opcion el usuario puede realizar la conversion de dólares [USD] a pesos colombianos [COP].
+' **Opcion 5:** Conversion de monedas. En esta opcion el usuario puede realizar la conversion de dólares [USD] a pesos colombianos [COP].
 
-' *Opcion 6.-* Conversion de monedas. En esta opcion el usuario puede realizar la conversion de pesos colombianos [COP] a dólares [USD].
+' **Opcion 6:** Conversion de monedas. En esta opcion el usuario puede realizar la conversion de pesos colombianos [COP] a dólares [USD].
 
-' *Opcion 7.-* Salir. En esta opcion el usuario puede salir la aplicacion.
+' **Opcion 7:** Salir. En esta opcion el usuario puede salir la aplicacion.
 
 ## 1.- Conversion de Monedas.
 
-Como ejemplo usaremos la conversion de pesos colombianos a dolares estadounidense siguiendo los siguientes pasos.
+Como ejemplo usaremos la conversion de pesos colombianos a dólares estadounidense siguiendo los siguientes pasos.
 
 ### Pasos a seguir.
 
